@@ -1,1 +1,23 @@
+scripts
+1. player control
+2. spawn obstacle and health recovery
+3. scores and player health
+4. button randomize
+5. audio control
+6. pause menu
+7. main menu
+8. buttons control
 
+game objects
+In game:
+-background
+-display direction bar
+-display pause button
+-display player
+-display player's health
+-display obstacle
+-display the current direction when player press on it
+-play audio when:
+  -playing the game
+  -player gets hit
+  -player die
